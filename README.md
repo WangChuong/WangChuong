@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delvin Truong</h1>
 <h3 align="center">I'm Front end Dev from VietNam</h3>
 
-<img align="center" alt="coding" width="800" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="coding" width="auto" src="https://i.ytimg.com/vi/esX7SFtEjHg/maxresdefault.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangchuong&label=Profile%20views&color=0e75b6&style=flat" alt="wangchuong" /> </p>
 
