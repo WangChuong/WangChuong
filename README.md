@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lê-quang-trường-46335426a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lê-quang-trường-46335426a" height="30" width="40" /></a>
-<a href="https://fb.com/kinzuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinzuss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lê-quang-trường-46335426a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lê-quang-trường-46335426a" height="30" width="40" target="_blank"/></a>
+<a href="https://fb.com/kinzuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinzuss" height="30" width="40" target="_blank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
